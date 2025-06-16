@@ -8,6 +8,9 @@ This project involves analyzing sales data for **Vrinda Store** using **Microsof
 
 It is a project aimed at helping you understand how to use Excel tools (Pivot Tables, Charts, Filters, etc.) for real-world data analysis.
 
+- dashboard interaction <a href="https://github.com/Rakesh8397/Vrinda-Store-Sales-Data-Analysis-using-Excel/blob/main/dashboard%20image.png">View Dashboard</a>
+
+
 ## 📌 Steps Followed
 
 ### 1. Data Collection & Cleaning
